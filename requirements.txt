@@ -1,0 +1,5 @@
+torch==1.13.1
+torchvision==0.14.1
+tifffile==2021.7.2
+tqdm==4.56.0
+scikit-learn==1.2.2
